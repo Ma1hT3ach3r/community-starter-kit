@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This bot should welcome students to GitHub in a friendly way that encourages collaborations and creativitity.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Guides them through some creative coding project that allows them to make use of mathematics to show their understanding of the task they have chosen to take on.
 
 ## Getting started
 
