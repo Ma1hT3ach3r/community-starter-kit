@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to MONA this will be where your work will be stored!
+Isn't this exciting?
+Lets get working!
